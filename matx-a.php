@@ -13,7 +13,7 @@
 	<p>
 	</p>
 	<p></p>
-	<form action="index.php" method="post">
+	<form action="matx-a.php" method="post">
 	<h4>Number #1</h4>
 	<td align="center"><input type="text" name="number1" placeholder="Enter first number here.." size="30"></td>
 	<h4>Number #2</h4>
