@@ -13,7 +13,7 @@
 	<p>
 	</p>
 	<p></p>
-	<form action="matxbindex.php" method="post">
+	<form action="matx-b.php" method="post">
 	<h4>Sum:</h4>
 	<td align="center"><input type="text" name="sum" placeholder="Enter sum here.." size="30"></td>
 	<h4>Difference:</h4>
